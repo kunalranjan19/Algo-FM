@@ -1,0 +1,31 @@
+
+##Key Features for Stock Price Prediction:
+    To build a robust stock price prediction model, We need to gather and engineer relevant features.  
+    some common and useful features:
+
+1. Historical Price Data
+       -: Open, High, Low, Close Prices: Historical data on stock prices at different times of the day.
+       -: Volume: Number of shares traded.
+
+2. Technical Indicators
+        -:Moving Averages: Simple Moving Average (SMA), Exponential Moving Average (EMA).
+        -:Relative Strength Index (RSI): Indicates overbought or oversold conditions.
+        -:Moving Average Convergence Divergence (MACD): Shows the relationship between two moving averages.
+        -:Bollinger Bands: Indicates volatility and potential price reversals.
+        -:Stochastic Oscillator: Compares a particular closing price of a security to a range of its prices over a certain period.
+3. Fundamental Data
+        -:Earnings per Share (EPS)
+        -:Price-to-Earnings (P/E) Ratio
+        -:Dividend Yield
+        -:Book Value
+4. Market Sentiment
+        -:News Sentiment: Positive or negative sentiment from financial news.
+        -:Social Media Sentiment: Sentiment analysis from platforms like Twitter, Reddit.
+5. Macroeconomic Indicators
+        -:Interest Rates
+        -:GDP Growth Rate
+        -:Inflation Rate
+        -:Unemployment Rate
+6. Other Features
+        -:Sector Performance: Performance of the sector the stock belongs to.
+        -:Company Events: Announcements, earnings reports, mergers and acquisitions.
